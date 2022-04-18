@@ -254,7 +254,7 @@
     <string name="category_all_channels">Wszystkie kanały</string>
     <string name="cfg_no_categories">Użyj listy zwykłych kanałów (bez kategorii)</string>
     <string name="cfg_section_desc">Opis programu</string>
-    <string name="cfg_section_lists">Ustawienia wyświetlania</string>
+    <string name="cfg_section_lists">Ustawienia wyświetlania list</string>
     <string name="cfg_no_hints">Nie pokazuj wskazówek</string>
     <string name="child_mode_unlock_cfg">Wprowadź kod podrzędny, aby odblokować ustawienia</string>
     <string name="cfg_child_mode">Tryb dzieciecy</string>
@@ -600,7 +600,7 @@
     <string name="launcher_mode">Tryb uruchamiania (nie zamykaj aplikacji)</string>
     <string name="current_epg_info">Informacje o aktualnej audycji</string>
     <string name="change_codec_if_no_playback">Jeśli odtwarzanie się nie rozpocznie, możesz wypróbować inny kodek</string>
-    <string name="player_menu_and_hud">Menu gracza i wyświetlacz heads-up</string>
+    <string name="player_menu_and_hud">Menu odtwarzacza i wyświetlacz heads-up</string>
     <string name="keep_hud_while_in_menu">Utrzymuj wyświetlacz Head-up, gdy menu jest włączone</string>
     <string name="media_tunneling">Tunelowanie ścieżki multimedialnej bezpośrednio do urządzenia wyjściowego</string>
     <string name="menu_qs_keep_fav">Pokazuj ulubione kanały wszystkich dostawców</string>

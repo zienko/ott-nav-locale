@@ -206,7 +206,7 @@
     <string name="err_archive_is_shorter">Archiwum tego kanału ma krótszy okres ważności u Twojego dostawcy</string>
     <string name="cfg_section_backup">Kopia zapasowa i przywracanie</string>
     <string name="btn_backup_info">Kopia zapasowa jest przechowywana przez klucz. Zapisz go, gdy tylko zakończy się tworzenie kopii zapasowej. Nie ma gwarancji, jak długo będzie dostępna kopia zapasowa.</string>
-    <string name="btn_backup_data">Konfiguracja prądu kopii zapasowej</string>
+    <string name="btn_backup_data">Konfiguracja kopii zapasowej bieżącej konfiguracji</string>
     <string name="btn_backup_load">Załaduj wcześniej utworzoną kopię zapasową konfiguracji</string>
     <string name="err_need_newer_android">Do tej funkcji wymagana jest nowsza wersja systemu Android</string>
     <string name="cfg_play_action_sys_pip">Wejdź do trybu systemu PiP</string>

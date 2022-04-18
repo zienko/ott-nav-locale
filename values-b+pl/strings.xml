@@ -28,8 +28,8 @@
     <string name="category_desc_from_fav">tylko treść z ulubionych kanałów</string>
     <string name="in_1_minute">za 1 minutę</string>
     <string name="in_n_minutes">za 10 minut</string>
-    <string name="player_episode_details_season">pora roku</string>
-    <string name="player_episode_details_series">epizod</string>
+    <string name="player_episode_details_season">sezon</string>
+    <string name="player_episode_details_series">odcinek</string>
     <string name="player_warn_turn_off">Wyłącza się</string>
     <string name="player_press_to_cancel">Naciśnij OK, aby anulować</string>
     <string name="player_touch_to_cancel">Dotknij ekranu, aby anulować</string>

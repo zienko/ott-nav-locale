@@ -79,7 +79,7 @@
     <string name="hint_title">Wskazówka</string>
     <string name="hint_long_tap">Możesz przeciągnąć element listy, aby uzyskać rozszerzony opis (jeśli dotyczy).</string>
     <string name="hint_fav_sorting">Aplikacja sortuje kanały według częstotliwości oglądania. Kanały oznaczone jako ulubione zawsze będą znajdować się u góry. Możesz wyłączyć automatyczne sortowanie, włączając opcję kolejności kanałów dostawcy, jednak filtr ulubionych nie będzie dostępny.</string>
-    <string name="hint_video_codecs">Jeśli źródło źle gra, możesz spróbować zwiększyć rozmiar bufora w ustawieniach, przełączyć do innego dekodera strumieniowego (sprzęt lub oprogramowanie) lub jeśli coś się nie powiedzie, skonfiguruj, aby użyć zewnętrznego odtwarzacza do odtwarzania.</string>
+    <string name="hint_video_codecs">Jeśli źródło źle się odtwarza, możesz spróbować zwiększyć rozmiar bufora w ustawieniach, przełączyć do innego dekodera strumieniowego (sprzęt lub oprogramowanie) lub jeśli coś się nie powiedzie, skonfiguruj, aby użyć zewnętrznego odtwarzacza do odtwarzania.</string>
     <string name="hint_auto_turn_off">Możesz skonfigurować automatyczne wyłączanie strumienia po pewnym czasie bezczynności (przydatne w przypadku rozliczeń za minutę). Bezczynność oznacza brak działań gracza (na przykład: menu, szukanie, pauza itp.).</string>
     <string name="settings_provider_select_type_intro1">UWAGA: Do korzystania z tej aplikacji potrzebny jest dostawca usług OTT / IPTV.</string>
     <string name="settings_provider_select_type_intro2">Aplikacja działa tylko z listami dostarczonymi przez użytkownika.</string>

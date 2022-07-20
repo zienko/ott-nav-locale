@@ -258,7 +258,7 @@
     <string name="cfg_no_hints">Nie pokazuj wskazówek</string>
     <string name="child_mode_unlock_cfg">Wprowadź kod dziecka, aby odblokować ustawienia</string>
     <string name="cfg_child_mode">Tryb Dziecka</string>
-    <string name="cfg_child_mode_number">Kod, aby opuścić tryb potomny (4 cyfry)</string>
+    <string name="cfg_child_mode_number">Kod, aby opuścić tryb dziecka (4 cyfry)</string>
     <string name="cfg_play_deny_status">Nie pokazuj statusu strumienia</string>
     <string name="cfg_player_hud">Styl Interfejsu Heads-Up (opis programu TV)</string>
     <string name="cfg_player_hud_1">Góra i Dół</string>

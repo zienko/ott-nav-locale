@@ -60,7 +60,7 @@
     <string name="player_menu_favorite_on_details">Dodaj do Ulubionych</string>
     <string name="player_menu_favorite_off_details">Usuń z Ulubionych</string>
     <string name="player_menu_timeshift">Time Shift</string>
-    <string name="player_menu_timeshift_on_details">Uruchom ponownie wideo</string>
+    <string name="player_menu_timeshift_on_details">Zacznij od Nowa</string>
     <string name="player_menu_timeshift_off_details">Oglądaj na Żywo</string>
     <string name="player_menu_pip_title">Obraz w Obrazie</string>
     <string name="player_menu_pip_on_details">Wyjdź z Trybu Obrazu w Obrazie</string>

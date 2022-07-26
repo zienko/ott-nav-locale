@@ -11,8 +11,8 @@
     <string name="browse_description_series_number">odcinek</string>
     <string name="browse_description_header_live">Kanały na żywo</string>
     <string name="category_movies">Wszystkie filmy</string>
-    <string name="category_tv_series">Wszystkie seriale telewizyjne</string>
-    <string name="category_tv_shows">Wszystkie programy telewizyjne</string>
+    <string name="category_tv_series">Wszystkie Seriale TV</string>
+    <string name="category_tv_shows">Wszystkie Programy TV</string>
     <string name="category_fav_channels">Ulubione kanały</string>
     <string name="category_by_categories">Filtruj według kategorii</string>
     <string name="category_by_years">Filtruj według daty produkcji</string>
@@ -636,7 +636,7 @@
     <string name="text_style">Styl tekstu</string>
     <string name="mark_all_visible">Oznacz wszystko jako Widoczne</string>
     <string name="mark_all_hidden">Oznacz wszystko jako Ukryte</string>
-    <string name="streams_just_started">Transmisje Rozpoczęte Teraz</string>
+    <string name="streams_just_started">Rozpoczęte Teraz</string>
     <string name="auto_number_fav_channels">Przypisz automatyczne numery do Ulubionych Kanałów</string>
     <string name="max_epg_history_to_keep">Maks. dni do zapamiętania (ogranicza dostępność archiwum)</string>
     <string name="vertical_gallery_view">Pionowy widok galerii</string>

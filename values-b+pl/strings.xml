@@ -628,7 +628,7 @@
     <string name="change_image">Zmień Obraz</string>
     <string name="also_allow_in_recommendations">Zezwalaj również w rekomendacjach</string>
     <string name="text_shadow_sz">Rozmiar cienia tekstu</string>
-    <string name="text_width_sz">Rozmiar tekstu</string>
+    <string name="text_width_sz">Styl tekstu</string>
     <string name="text_narrow">Wąski tekst</string>
     <string name="text_normal">Zwykły tekst</string>
     <string name="text_bold">Pogrubiony tekst</string>

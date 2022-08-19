@@ -112,7 +112,7 @@
     <string name="settings_media_library_dnla">Skanuj źródła UPnP / DLNA w sieci lokalnej</string>
     <string name="settings_player">Odtwarzacz</string>
     <string name="settings_player_hide_ui">Ukryj interfejs użytkownika podczas odtwarzania</string>
-    <string name="settings_player_resize_mode">Tryb Skali Wideo</string>
+    <string name="settings_player_resize_mode">Tryb Rozciągania obrazu</string>
     <string name="settings_player_resize_mode_fit">Dopasuj do ekranu</string>
     <string name="settings_player_resize_mode_fill">Rozszerz do szerokości ekranu</string>
     <string name="settings_player_resize_mode_zoom">Powiększ do ekranu</string>

@@ -94,7 +94,7 @@
     <string name="future_show_sheet_search_none">Ten film nie został znaleziony w archiwach dostawcy</string>
     <string name="notify_live_sheet_title">Film oznaczony do obejrzenia jest już dostępny online</string>
     <string name="notify_live_sheet_text">Przełącz, aby wyświetlić wideo</string>
-    <string name="feature_requires_premium">Ta funkcja wymaga subskrybcji</string>
+    <string name="feature_requires_premium">Ta funkcja wymaga subskrypcji</string>
     <string name="feature_requires_restart">Wymagane jest ponowne uruchomienie aplikacji</string>
     <string name="no_teleguide">Brak informacji o programie</string>
     <string name="vod_root_title_playlist">Niestandardowa playlista</string>
@@ -138,8 +138,8 @@
     <string name="settings_external_player">Odtwarzacz Zewnętrzny (domyślny)</string>
     <string name="settings_premium">Subskrypcja</string>
     <string name="settings_premium_source_purchase">Zakupiono Premium</string>
-    <string name="settings_premium_source_subscription">Subkrybcja Premium</string>
-    <string name="settings_premium_source_unknown">Brak subkrybcji Premium</string>
+    <string name="settings_premium_source_subscription">Subskrypcja Premium</string>
+    <string name="settings_premium_source_unknown">Brak Subskrypcji Premium</string>
     <string name="settings_premium_what_included">Dowiedz się więcej o funkcjach premium …</string>
     <string name="settings_premium_what_included_1">Tryb Obrazu w Obrazie podczas oglądania transmisji na żywo</string>
     <string name="settings_premium_what_included_3">Automatyczne przełączanie szybkości klatek, aby dopasować wideo</string>
@@ -547,7 +547,7 @@
     <string name="random_choice">Losowy Wybór</string>
     <string name="today">dzisiaj</string>
     <string name="tiny_cards">Najmniejsze karty</string>
-    <string name="action_with_multiple_channels">Działanie z Wieloma Kkanałami w Kategorii</string>
+    <string name="action_with_multiple_channels">Działanie z Wieloma Kanałami w Kategorii</string>
     <string name="select_from_gallery">Wybierz z Galerii</string>
     <string name="show_info_before_vod">Pokaż informacje przed uruchomieniem wideo</string>
     <string name="premium_note_dev">Subskrypcja premium pomaga ulepszać i wspierać aplikację</string>
@@ -586,7 +586,7 @@
     <string name="font_size_sm">Mała</string>
     <string name="font_size_lr">Duża</string>
     <string name="font_size_hg">Olbrzymia</string>
-    <string name="font_size_gi">Giant (może ukryć niektóre opcje wyświetlania)</string>
+    <string name="font_size_gi">Gigant (może ukryć niektóre opcje wyświetlania)</string>
     <string name="max_results_to_show">Maksymalna Liczba Wyników, które mają zostać wyświetlone</string>
     <string name="set_scale_x">Ustaw niestandardowe skalowanie współrzędnych X.</string>
     <string name="record_activity_history">Zapisuj historię aktywności</string>
@@ -652,7 +652,7 @@
     <string name="use_future_in_search">Użyj przyszłych rekordów w wyszukiwaniu</string>
     <string name="email_address">Adres e-mail</string>
     <string name="password">Hasło</string>
-    <string name="btn_login">Zaloguj sie</string>
+    <string name="btn_login">Zaloguj się</string>
     <string name="btn_register">Zapisz się</string>
     <string name="add_device">Dodaj urządzenie</string>
     <string name="claim_purchase">Odbierz zakup</string>
@@ -671,11 +671,11 @@
     <string name="clear_modifications">Wyczyść wszystkie modyfikacje i przywróć oryginalny stan</string>
     <string name="save_load_to_user_url">Użyj serwera dostarczonego przez użytkownika do przechowywania danych</string>
     <string name="action_complete">Akcja zakończona</string>
-    <string name="use_always_if_possible">Należy używać zawsze, jeśli to możliwe</string>
+    <string name="use_always_if_possible">Używaj zawsze, jeśli to możliwe</string>
     <string name="try_pin_activation">Czy chcesz skorzystać z aktywacji PIN?</string>
-    <string name="finger_controller">Widżet sterowania palcami</string>
-    <string name="fine_tune_text_for_fields">Dostosuj kolor tekstu dla dokładnych pól</string>
-    <string name="field_name_of_tv_channel">Nazwa kanału telewizyjnego</string>
+    <string name="finger_controller">Widżet sterowania palcem</string>
+    <string name="fine_tune_text_for_fields">Dostosuj kolory tekstu dla poszczególnych pól</string>
+    <string name="field_name_of_tv_channel">Nazwa kanału TV</string>
     <string name="field_name_of_tv_show">Nazwa aktualnej audycji</string>
-    <string name="cfg_play_deny_hud_on_update">Nie wyświetlaj komunikatów przeziernych podczas aktualizacji transmisji</string>
+    <string name="cfg_play_deny_hud_on_update">Nie pokazuj wyskakującego Wyświetlacza Heads-Up przy aktualizacji transmisji</string>
     </resources>

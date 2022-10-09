@@ -677,5 +677,5 @@
     <string name="fine_tune_text_for_fields">Dostosuj kolor tekstu dla dokładnych pól</string>
     <string name="field_name_of_tv_channel">Nazwa kanału telewizyjnego</string>
     <string name="field_name_of_tv_show">Nazwa aktualnej audycji</string>
-    <string name="cfg_play_deny_hud_on_update">Nie wyświetlaj komunikatów przeziernych podczas aktualizacji transmisji</string>
+    <string name="cfg_play_deny_hud_on_update">Nie pokazuj wyskakującego okna podczas aktualizacji transmisji</string>
     </resources>

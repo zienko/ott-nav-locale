@@ -284,9 +284,9 @@
     <string name="provider_field_server">Serwer</string>
     <string name="provider_field_active">Aktywny</string>
     <string name="cfg_prov_categories_merge">Kategorie od różnych dostawców</string>
-    <string name="cfg_prov_categories_merge_prepend">Dodaj nazwę Dostawcy do nazwy Kategorii</string>
+    <string name="cfg_prov_categories_merge_prepend">Dodaj Nazwę Dostawcy przed Nazwą Kategorii</string>
     <string name="cfg_prov_categories_merge_mix">Scal kategorie, jeśli nazwa pasuje</string>
-    <string name="cfg_prov_categories_merge_append">Dodaj nazwę Dostawcy do nazwy Kategorii</string>
+    <string name="cfg_prov_categories_merge_append">Dodaj Nazwę Dostawcy po Nazwie Kategorii</string>
     <string name="cfg_codec_exo_q">Jakość kodeków sprzętowych</string>
     <string name="cfg_codec_exo_max">Automatycznie</string>
     <string name="cfg_codec_exo_compat">Tryb zgodności</string>
